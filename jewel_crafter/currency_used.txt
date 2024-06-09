@@ -1,0 +1,7 @@
+augs: 1776
+alts: 3342
+regals: 158
+scoures: 158
+exalts: 3
+annulls: 3
+chaos: 435
